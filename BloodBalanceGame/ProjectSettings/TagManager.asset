@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RedCell
+  - WhiteCell
+  - Enemie
+  - WhiteSlider
+  - RedSlider
+  - Shooter
+  - Ground
+  - background1
+  - background2
+  - background3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2238201317
+    locked: 0
+  - name: middle
+    uniqueID: 3797766243
+    locked: 0
+  - name: Front
+    uniqueID: 3304092955
+    locked: 0
