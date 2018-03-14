@@ -14,7 +14,7 @@ While running the player can lose red-cells, and if he shoots he loses white cel
 
 The world is a 2D discrete world where the player only moves forward in a straight line, and jumps up to a certain height.
 
-[Fig.1](space.png?raw=true "Title")
+![](space.png?raw=true "Fig.1")
 
 Attributes and States
 
@@ -30,9 +30,9 @@ Sub-goals are: to collect the appeared blood cells (keep a good health condition
 Before starting the game, these few basic rules are available, to ensure the player knows how to play and explain which keys to use (fig.2). In the game view, there is an indication of the amount of red and white cells obtained (top left of the scene), so that the player has the important information during the whole game. If the player is prone to lose, a constant heart beat sound heard in the game becomes faster, making the player more anxious. Moreover, the microbes have health
 bars, showing how much power they lose when being hit. Innovation is introduced by switching the worlds while playing, i.e. changing the background (fig.3), to confuse or excite the player.
 
-[Fig.2](instructions.png?raw=true "Title")
+![](instructions.png?raw=true "Fig.2")
 
-[Fig.3](background.png?raw=true "Title")
+![](background.png?raw=true "Fig.3")
 
 The overall game has a minimalist view, easy to focus on the goal, and easy to play by everyone. It follows the old school playing games combined with modern graphics. The fact that the main character is not a human, but a blood drop, makes the game more story-wise and interesting.
 
